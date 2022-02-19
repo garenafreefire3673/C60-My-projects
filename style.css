@@ -1,0 +1,24 @@
+
+body {
+    text-align:center;
+}
+.line{
+    background-color:black;
+    width:70px;
+    height:5px;
+    margin:8px auto;
+}
+#apps {
+    background-color:gold;
+
+    
+}
+#mycarousel {
+    background-color:crimson;
+    padding:50px;
+
+}
+#mycarousel p{
+    color:white;
+    font-size:30px;
+}
